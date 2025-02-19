@@ -1,0 +1,12 @@
+<testsuites id="" name="" tests="4" failures="0" skipped="0" errors="0" time="65.220047">
+<testsuite name="venapp.spec.ts" timestamp="2025-02-18T23:51:15.354Z" hostname="chromium" tests="4" failures="0" skipped="0" time="63.814" errors="0">
+<testcase name="E2E-VENAPP-001 Login exitoso @smoke @regression" classname="venapp.spec.ts" time="14.308">
+</testcase>
+<testcase name="E2E-VENAPP-002 Login fallido con email incorrecto @regression" classname="venapp.spec.ts" time="10.242">
+</testcase>
+<testcase name="E2E-VENAPP-003 Login fallido con password incorrecto @regression" classname="venapp.spec.ts" time="9.992">
+</testcase>
+<testcase name="E2E-VENAPP-004 Buscar,agregar productos y validar total del carrito @smoke @regression" classname="venapp.spec.ts" time="29.272">
+</testcase>
+</testsuite>
+</testsuites>
